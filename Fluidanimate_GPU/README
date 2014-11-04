@@ -1,0 +1,11 @@
+/* 
+*  Application   : PARSEC benchmark Fluidanimate GPU Version.
+*  Serial Code   : PARSEC benchmark Fluidanimate
+*  Serial Author : Code originally written by Richard O. Lee 
+*                  Modified by Christian Bienia and Christian Fensch
+*
+*  GPU Version Author : Jahanzeb Maqbool 
+*                       SEECS, NUST, Pakistan
+*
+*  This code is the modification to the original PARSEC Fluidanimate. I have also modified some CUDA Makefiles.
+*/
